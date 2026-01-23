@@ -1,0 +1,9 @@
+,NORMAL,PNEUMONIA,fractured,glioma,meningioma,not fractured,notumor,pituitary
+NORMAL,107,127,0,0,0,0,0,0
+PNEUMONIA,0,390,0,0,0,0,0,0
+fractured,0,0,234,0,0,4,0,0
+glioma,0,0,0,296,4,0,0,0
+meningioma,0,0,0,0,305,0,0,1
+not fractured,0,0,1,0,0,267,0,0
+notumor,0,0,0,0,0,0,405,0
+pituitary,0,0,0,0,1,0,0,299

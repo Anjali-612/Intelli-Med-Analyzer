@@ -1,0 +1,1 @@
+{"NORMAL": "chest_xray/NORMAL", "PNEUMONIA": "chest_xray/PNEUMONIA", "fractured": "bone_fracture/fractured", "not fractured": "bone_fracture/not fractured", "glioma": "brain_tumor/glioma", "meningioma": "brain_tumor/meningioma", "notumor": "brain_tumor/notumor", "pituitary": "brain_tumor/pituitary"}

@@ -1,0 +1,14 @@
+{
+  "class_names": [
+    "bone_fracture_fractured",
+    "bone_fracture_not fractured",
+    "brain_tumor_glioma",
+    "brain_tumor_meningioma",
+    "brain_tumor_notumor",
+    "brain_tumor_pituitary",
+    "chest_xray_NORMAL",
+    "chest_xray_PNEUMONIA"
+  ],
+  "img_size": 224,
+  "num_classes": 8
+}
